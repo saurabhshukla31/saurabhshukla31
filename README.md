@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h2>Hey 👋, I'm Saurabh, a passionate programmer from India.</h2>
 
 ![Anime GIF](https://i.imgflip.com/9fapub.gif)
@@ -26,8 +25,3 @@
 
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=saurabhshukla31&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
